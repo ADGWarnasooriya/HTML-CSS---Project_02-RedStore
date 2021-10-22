@@ -100,3 +100,11 @@ p {
 .col-4 img {
     width: 100%;
 }
+
+.title {
+    text-align: center;
+    margin: 50px auto 50px;
+    position: relative;
+    line-height: 60px;
+    color: #555;
+}
