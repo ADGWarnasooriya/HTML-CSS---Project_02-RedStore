@@ -152,3 +152,7 @@ h4 {
 .col-2 .offer-img {
     padding: 50px;
 }
+
+small {
+    color: #555;
+}
