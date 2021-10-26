@@ -288,3 +288,7 @@ small {
     height: 1px;
     margin: 20px 0;
 }
+
+.copyright {
+    text-align: center;
+}
