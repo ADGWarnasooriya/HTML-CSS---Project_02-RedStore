@@ -269,3 +269,7 @@ small {
     flex-basis: 12%;
     text-align: center;
 }
+
+.footer ul {
+    list-style: none;
+}
