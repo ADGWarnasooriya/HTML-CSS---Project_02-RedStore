@@ -273,3 +273,7 @@ small {
 .footer ul {
     list-style: none;
 }
+
+.app-logo {
+    margin-top: 20px;
+}
