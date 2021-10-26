@@ -212,3 +212,8 @@ small {
 .col-5 {
     width: 160px;
 }
+
+.col-5 img {
+    width: 100%;
+    cursor: pointer;
+}
