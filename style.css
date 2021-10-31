@@ -340,3 +340,11 @@ small {
         flex-basis: 100%;
     }
 }
+
+
+/* All products page */
+
+.row-2 {
+    justify-content: space-between;
+    margin: 100px auto 50px;
+}
