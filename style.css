@@ -398,6 +398,11 @@ input:focus {
     outline: none;
 }
 
+.single-product .fas {
+    color: #ff523b;
+    margin-left: 10px;
+}
+
 
 /* media query for less than 600px screen size */
 
