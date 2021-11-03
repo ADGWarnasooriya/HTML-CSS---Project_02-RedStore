@@ -375,6 +375,10 @@ select:focus {
     padding: 0;
 }
 
+.single-product .col-2 {
+    padding: 20px;
+}
+
 
 /* media query for less than 600px screen size */
 
