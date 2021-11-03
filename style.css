@@ -379,6 +379,12 @@ select:focus {
     padding: 20px;
 }
 
+.single-product h4 {
+    margin: 20px 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
 
 /* media query for less than 600px screen size */
 
