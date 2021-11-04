@@ -403,6 +403,11 @@ input:focus {
     margin-left: 10px;
 }
 
+.small-img-row {
+    display: flex;
+    justify-content: space-between;
+}
+
 
 /* media query for less than 600px screen size */
 
