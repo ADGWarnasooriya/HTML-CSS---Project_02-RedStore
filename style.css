@@ -425,4 +425,7 @@ input:focus {
     .col-4 {
         flex-basis: 100%;
     }
+    .single-product .row {
+        text-align: left;
+    }
 }
