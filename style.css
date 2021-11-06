@@ -428,4 +428,7 @@ input:focus {
     .single-product .row {
         text-align: left;
     }
+    .single-product .col-2 {
+        padding: 20px 0;
+    }
 }
