@@ -425,6 +425,11 @@ table {
     border-collapse: collapse;
 }
 
+.cart-info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 
 /* media query for less than 600px screen size */
 
