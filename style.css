@@ -416,6 +416,10 @@ input:focus {
 
 /* -----cart items---- */
 
+.cart-page {
+    margin: 80px auto;
+}
+
 
 /* media query for less than 600px screen size */
 
