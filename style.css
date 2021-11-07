@@ -420,6 +420,11 @@ input:focus {
     margin: 80px auto;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
 
 /* media query for less than 600px screen size */
 
