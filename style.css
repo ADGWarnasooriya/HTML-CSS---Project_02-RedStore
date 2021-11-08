@@ -464,6 +464,12 @@ td img {
     justify-content: flex-end;
 }
 
+.total-price table {
+    border-top: 3px solid #ff523b;
+    width: 100%;
+    max-width: 350px;
+}
+
 
 /* media query for less than 600px screen size */
 
