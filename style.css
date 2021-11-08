@@ -459,6 +459,11 @@ td img {
     margin-right: 10px;
 }
 
+.total-price {
+    display: flex;
+    justify-content: flex-end;
+}
+
 
 /* media query for less than 600px screen size */
 
