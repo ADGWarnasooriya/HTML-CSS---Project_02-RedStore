@@ -470,6 +470,10 @@ td img {
     max-width: 350px;
 }
 
+td:last-child {
+    text-align: right;
+}
+
 
 /* media query for less than 600px screen size */
 
