@@ -442,6 +442,12 @@ td {
     padding: 10px 5px;
 }
 
+td input {
+    width: 40px;
+    height: 30px;
+    padding: 5px;
+}
+
 
 /* media query for less than 600px screen size */
 
