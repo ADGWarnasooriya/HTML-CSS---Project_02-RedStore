@@ -496,4 +496,7 @@ th:last-child {
     .single-product .col-2 {
         padding: 20px 0;
     }
+    .cart-info p {
+        display: none;
+    }
 }
