@@ -540,6 +540,10 @@ form .btn:focus {
     left: -300px;
 }
 
+#RegForm {
+    left: 0;
+}
+
 
 /* media query for less than 600px screen size */
 
