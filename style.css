@@ -532,6 +532,10 @@ form .btn {
     margin: 10px 0;
 }
 
+form .btn:focus {
+    outline: none;
+}
+
 
 /* media query for less than 600px screen size */
 
