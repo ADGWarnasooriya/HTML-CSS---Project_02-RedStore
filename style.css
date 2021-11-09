@@ -506,6 +506,10 @@ th:last-child {
     display: inline-block;
 }
 
+.form-btn {
+    display: inline-block;
+}
+
 
 /* media query for less than 600px screen size */
 
