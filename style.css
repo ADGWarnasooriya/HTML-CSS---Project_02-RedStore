@@ -544,6 +544,10 @@ form .btn:focus {
     left: 0;
 }
 
+form a {
+    font-size: 12px;
+}
+
 
 /* media query for less than 600px screen size */
 
