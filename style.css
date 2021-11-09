@@ -536,6 +536,10 @@ form .btn:focus {
     outline: none;
 }
 
+#LoginForm {
+    left: -300px;
+}
+
 
 /* media query for less than 600px screen size */
 
