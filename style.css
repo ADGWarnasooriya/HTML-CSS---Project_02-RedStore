@@ -516,6 +516,7 @@ th:last-child {
     position: absolute;
     top: 130px;
     transition: transform 1s;
+    overflow: hidden;
 }
 
 form input {
