@@ -495,6 +495,7 @@ th:last-child {
     padding: 20px 0;
     margin: auto;
     box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
 }
 
 .form-container span {
@@ -516,7 +517,6 @@ th:last-child {
     position: absolute;
     top: 130px;
     transition: transform 1s;
-    overflow: hidden;
 }
 
 form input {
