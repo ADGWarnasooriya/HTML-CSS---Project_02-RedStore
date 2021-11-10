@@ -548,6 +548,15 @@ form a {
     font-size: 13px;
 }
 
+.Indicator {
+    width: 100px;
+    border: none;
+    background: #ff523b;
+    height: 3px;
+    margin-top: 8px;
+    transform: translateX(100px);
+}
+
 
 /* media query for less than 600px screen size */
 
